@@ -1,0 +1,2 @@
+# stataMisc
+Miscellaneous stata programs
