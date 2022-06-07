@@ -1,0 +1,10 @@
+v 1.0.0
+d 'STATAMISC': stataMI
+d 
+d Miscellaneous stata programs
+d 
+d Distribution-Date:   20220607
+d License: Academic Free License v3.0
+d 
+F mh_rd2.ado
+F mh_rd2.sthlp
